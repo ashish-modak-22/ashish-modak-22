@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Modak </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=2EFFA0&center=true&vCenter=true&width=1000&lines=Native+Android+Learner;Web+Scrapping;Python+Cryptography;Advanced+Computer+Vision+using+Python;DSA+with+CPP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=400&color=2EFFA0&center=true&vCenter=true&width=1000&lines=Native+Android+Learner;Web+Scrapping;Python+Cryptography;Advanced+Computer+Vision+using+Python;DSA+with+CPP" alt="Typing SVG" />
 </p>
 
 <p align="center">
