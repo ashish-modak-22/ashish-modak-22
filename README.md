@@ -57,10 +57,12 @@
 
 ### Security & Cryptography
 <p align="left">
-  <img src="https://img.shields.io/badge/SHA--256-FF6F00?style=for-the-badge&logo=letsencrypt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bcrypt-2C3E50?style=for-the-badge&logo=keepassxc&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyCryptodome_(AES)-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/SHA--256-FF6F00?style=for-the-badge&logo=letsencrypt&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bcrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyCryptodome-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/AES-CC2927?style=for-the-badge&logo=letsencrypt&logoColor=white"/>
+<img src="https://img.shields.io/badge/RSA-013243?style=for-the-badge&logo=letsencrypt&logoColor=white"/>
+<img src="https://img.shields.io/badge/Base64-6E4C13?style=for-the-badge&logo=base64&logoColor=white"/>
 </p>
 
 ### Computer Vision
