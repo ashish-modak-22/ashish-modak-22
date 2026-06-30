@@ -98,13 +98,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashish-modak-22&theme=tokyo-night" alt="Activity Graph"/>
 </p>
 
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashish-modak-22" alt="GitHub Trophies"/>
-</p>
-
 ## 🐍 Contribution Snake
 
 <p align="center">
