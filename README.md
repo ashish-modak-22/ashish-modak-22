@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ### Android Development
@@ -60,8 +61,7 @@
   <img src="https://img.shields.io/badge/SHA--256-FF6F00?style=for-the-badge&logo=letsencrypt&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bcrypt-2C3E50?style=for-the-badge&logo=keepassxc&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyCryptodome_(AES)-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RSA-008080?style=for-the-badge&logo=letsencrypt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Base64-7952B3?style=for-the-badge&logo=base64&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
 ### Computer Vision
