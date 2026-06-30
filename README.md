@@ -12,3 +12,11 @@
 <p align="center">
   Electronics and Communication Engineering Undergrad @ NIT Durgapur
 </p>
+
+
+## 🚀 About Me
+
+- 🌱 I'm currently learning **Android Development using Kotlin | Python Libraries and Modules| Algorithms**
+- 👯 I'm looking to collaborate on **Open Source Android Apps**
+- 📫 How to reach me: **toashish2006@gmail.com**
+- 🎯 Goal: **Building android apps and automating things that can be used in real life**
