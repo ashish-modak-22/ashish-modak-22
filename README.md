@@ -102,5 +102,5 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/[your-github-username]/[your-github-username]/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/ashish-modak-22/ashish-modak-22/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
