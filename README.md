@@ -48,7 +48,26 @@
   <img src="https://img.shields.io/badge/Firebase_Realtime_DB-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
+### Automation & Scripting
+<p align="left">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Requests-000000?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
+### Security & Cryptography
+<p align="left">
+  <img src="https://img.shields.io/badge/SHA--256-FF6F00?style=for-the-badge&logo=letsencrypt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bcrypt-2C3E50?style=for-the-badge&logo=keepassxc&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCryptodome_(AES)-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RSA-008080?style=for-the-badge&logo=letsencrypt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Base64-7952B3?style=for-the-badge&logo=base64&logoColor=white"/>
+</p>
+
+### Computer Vision
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
 
 ### Tools
 <p align="left">
