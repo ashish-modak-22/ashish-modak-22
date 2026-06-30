@@ -95,5 +95,5 @@
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ashish-modak-22&theme=tokyo-night" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashish-modak-22&theme=tokyo-night" alt="Activity Graph"/>
 </p>
