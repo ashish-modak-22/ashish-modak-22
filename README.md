@@ -91,9 +91,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-modak-22&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=ashish-modak-22&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashish-modak-22&theme=tokyo-night" alt="Activity Graph"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=ashish-modak-22&theme=tokyo-night" alt="Activity Graph"/>
 </p>
