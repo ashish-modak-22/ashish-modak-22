@@ -97,3 +97,10 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashish-modak-22&theme=tokyo-night" alt="Activity Graph"/>
 </p>
+
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/[your-github-username]/[your-github-username]/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
