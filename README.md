@@ -109,7 +109,7 @@
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashish-modak-22&color=2EFFA0&style=for-the-badge" alt="Profile views"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=ashish-modak-22.ashish-modak-22" alt="Profile views"/>
 </p>
 
 ---
