@@ -104,3 +104,16 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ashish-modak-22/ashish-modak-22/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
+
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashish-modak-22&color=2EFFA0&style=for-the-badge" alt="Profile views"/>
+</p>
+
+---
+
+<p align="center">
+  <i>⭐️ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</i>
+</p>
