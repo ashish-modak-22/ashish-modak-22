@@ -124,14 +124,6 @@
 </p>
 
 
-## 👀 Profile Views
-
-<p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=ashish-modak-22.ashish-modak-22" alt="Profile views"/>
-</p>
-
----
-
 <p align="center">
   <i>⭐️ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</i>
 </p>
